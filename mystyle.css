@@ -1,0 +1,39 @@
+body{
+background-image: url("https://i.pinimg.com/originals/d0/11/d9/d011d97e1d80631a1f0f88add714c1e0.jpg");
+background-position: top right;
+background-size: cover;
+background-attachment: scroll;
+}
+
+
+
+h1,h2,h3,h4,h5,h6,header{
+    text-align: center;
+    color: orange
+}
+
+
+.lista, p {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  max-width: 600px;
+  color:orange;
+  border: 3px solid orange;    
+}
+
+.annat, nav{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  max-width: 600px;
+  border: 3px solid orange;    
+}
+
+a {
+  color: orange;
+  background-color: black;
+  padding: 5px;
+  border:1px solid orange;
+}
