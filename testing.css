@@ -23,18 +23,19 @@
   padding: 7px;
   text-align: center;
   border: 3px solid #FFA500;
-  margin: 15px;
+  margin: 25px;
   margin-left: auto;
   margin-right: auto;
   border-style: dashed;
   border-collapse: separate;
   border-spacing: 10px;
   font-family: "Roboto_Mono", monospace;
+  background-color: #303030;
 }
 
 
 body {
-  background-image: url("pexels-orlando-allo-2273486.jpg");
+  background-color: #000000;
 }
 
 footer,article,section,main,header,a,body,form {
@@ -52,7 +53,7 @@ footer,article,section,main,header,a,body,form {
   margin-left: auto;
   margin-right: auto;
   display: inline-block;
-  
+  background-color: #303030;
 }
 
 /* Style the topnav links */
