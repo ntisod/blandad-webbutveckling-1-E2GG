@@ -44,25 +44,30 @@ footer,article,section,main,header,a,body,form {
 }
 
 img{
-  width: auto;
+  width: 70%;
 }
 
-/*------------------------------------------*/
+
+/*´tog det här från W3Schools men ändrade lite av det.------------------------------------------*/
 .topnav {
-  position: relative;
-  overflow: hidden;
+  float: center;
+  padding: 7px;
+  text-align: center;
   border: 3px solid #FFA500;
-  border-style: dashed;
-  font-family: "Roboto_Mono", monospace;
+  margin: 25px;
   margin-left: auto;
   margin-right: auto;
-  display: inline-block;
+  border-style: dashed;
+  border-collapse: separate;
+  border-spacing: 10px;
+  font-family: "Roboto_Mono", monospace;
   background-color: #303030;
+
 }
 
 /* Style the topnav links */
 .topnav a {
-  float: left;
+  float: none;
   display: block;
   color: #FFA500;
   text-align: center;
