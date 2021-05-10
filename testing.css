@@ -43,6 +43,10 @@ footer,article,section,main,header,a,body,form {
 
 }
 
+img{
+  width: auto;
+}
+
 /*------------------------------------------*/
 .topnav {
   position: relative;
