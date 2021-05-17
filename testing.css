@@ -67,7 +67,7 @@ img{
 
 /* Style the topnav links */
 .topnav a {
-  float: none;
+  float: left;
   display: block;
   color: #FFA500;
   text-align: center;
